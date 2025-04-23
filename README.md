@@ -5,23 +5,18 @@
 Opa, tranquilo? Me chamo Carlos Eduardo Vitor, tenho 18 anos e sou natural de São Paulo. Já concluí, com o curso técnico em informática. Atualmente, estou cursando no instituto PROA. Sou um amante da tecnologia e sempre tenho vontade de aprender mais, estou me aprofundando mais na linguagem e buscando sempre minha evolução, hoje sendo desenvolvedor full-stack.
 
 <p align="left">
-        <img 
-            alt="views github" 
-            title="Vizualizações no github" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
-        />
     <a href="https://github.com/CarlosEduardoVitor?tab=repositoriess">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/CarlosEduardoVitor?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/CarlosEduardoVitor?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/CarlosEduardoVitor?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
